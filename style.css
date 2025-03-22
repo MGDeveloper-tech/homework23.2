@@ -1,0 +1,77 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+
+}
+
+.Mom {
+    border: 1px solid black;
+    padding: 50px;
+
+}
+
+.minibaby {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 80px;
+    font-size: 30px;
+}
+
+.secondbaby {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+}
+
+.ch {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 40px;
+}
+
+.main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.wanda2 {
+    border: 1px solid black;
+    background-color: rgb(99, 7, 7);
+    width: 100px;
+    height: 30px;
+    color: white;
+}
+
+.agatha2 {
+    border: 1px solid black;
+    background-color: rgb(53, 8, 95);
+    width: 100px;
+    height: 30px;
+    color: white;
+}
+
+.rio2 {
+    border: 1px solid black;
+    background-color: rgb(6, 61, 6);
+    width: 100px;
+    height: 30px;
+    color: white;
+}
+
+.wanda {
+    color: red;
+}
+
+.agatha {
+    color: rgb(58, 6, 58);
+}
+
+.rio {
+    color: rgb(5, 48, 5);
+}
